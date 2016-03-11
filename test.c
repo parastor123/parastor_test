@@ -2,5 +2,8 @@
 int main()
 {
 	printf("HelloWorld!!!!!!!!!!!");
-	return 0;
+        int aaa=1;
+int bb=6;
+int cc=7;	
+return 0;
 }
